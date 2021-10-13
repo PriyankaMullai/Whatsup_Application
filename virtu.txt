@@ -5,7 +5,7 @@ for(int i=0; i<s.length();i++){
 char c=s.[i];
 if(c=='e' ||, c=='l')
 count++;}
-sysout(count)
+sysout(count)}
 
 File f= new File("path");
 FileInputStrem file = new FileInputStrem(f);
@@ -13,6 +13,6 @@ WorkBook w= new XSSFWorkBook();
 Sheet s= w. getSheet();
 Row r= s.getRows();
 Cell c= r.getCells();
-FileOutput 
+
 
 driver.findelenmts
